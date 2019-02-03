@@ -1,0 +1,5 @@
+This is a sample text
+
+Here is another paragraph on the sample file
+
+Last paragraph of my sample text file.
