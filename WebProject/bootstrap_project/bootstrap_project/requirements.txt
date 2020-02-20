@@ -1,4 +1,4 @@
-Django==2.0
+Django==2.2.10
 django-bootstrap4==0.0.4
 gunicorn==19.7.1
 pytz==2017.3
