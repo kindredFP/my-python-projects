@@ -45,21 +45,3 @@
 ### COPYING_MOVING
 - methods that allow you to move/copy/delete files
 
-### REST_INTERFACE
-- To Do
-
-###Web Project
-- Used to learn to deploy heroku
-- play with Django framework
-- play with bootstrapping sites
-
-### Test Automation
-- automatedGmailLogin.py - automated script to login to gmail
-- virtualEnv
-    - contains my AutomationTestingVirtual enviroment
-        - to create new venv:  python3 -m venv tutorial_env
-        - to activate:  source tutorial_env/bin/activate
-        - to install using requirement file
-            pip install -r requirements.txt
-        - to create requirements file
-            pip freeze > requirements.txt
